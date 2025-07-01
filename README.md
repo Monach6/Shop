@@ -26,7 +26,7 @@ Admin panel for managing products, categories, and orders
 ▶️ Getting Started
 
 Clone the repository:
-git clone https://github.com/your-username/shop.git
+https://github.com/Monach6/Shop.git
 cd shop
 
 Create and activate a virtual environment:
